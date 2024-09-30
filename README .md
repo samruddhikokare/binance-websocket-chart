@@ -54,6 +54,4 @@ npm -v
 - **src/App.js**: Main component to bring everything together.
 - **src/index.js**: Entry point for rendering the React application.
 
-## License
 
-This project is licensed under the MIT License.
